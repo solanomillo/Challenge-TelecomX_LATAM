@@ -1,4 +1,6 @@
 # 📊 Challenge TelecomX LATAM – Análisis de Evasión de Clientes (Churn)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juliosolano/challenge-TelecomX_LATAM/blob/main/challenge_telecomx_latam.ipynb)
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
