@@ -1,5 +1,12 @@
 # 📊 Challenge TelecomX LATAM – Análisis de Evasión de Clientes (Churn)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juliosolano/challenge-TelecomX_LATAM/blob/main/challenge_telecomx_latam.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/solanomillo/Challenge-TelecomX_LATAM/blob/main/TelecomX_LATAM.ipynb)
+## ▶️ Ejecución rápida en Google Colab
+
+1. Haz clic en el badge **Open in Colab**.
+2. Ejecuta todas las celdas desde **Runtime → Run all**.
+3. Explora el análisis, visualizaciones e insights directamente en el notebook.
+
+No se requiere instalación local ni configuración adicional.
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
