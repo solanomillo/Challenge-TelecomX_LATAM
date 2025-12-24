@@ -62,6 +62,12 @@ El análisis fue desarrollado en un **notebook de Google Colab**, combinando lim
 
 Estas imágenes refuerzan los análisis y conclusiones del proyecto.
 
+<img src="screenshots/GRAFICO_1.png" width="600" />
+<img src="screenshots/contrato.png" width="600" />
+<img src="screenshots/meses contrato.png" width="600" />
+<img src="screenshots/servicio de internet.png" width="600" />
+<img src="screenshots/total_gastado.png" width="600" />
+
 ---
 
 ## 🧩 Principales Insights
